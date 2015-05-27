@@ -35,7 +35,7 @@ Worpdress Awesome Responsive Menu Plugin will help You to convert WordPress menu
 
 4. Configure setting 
 
-== Required Setting ==
+ Required Setting 
 1. In Awesome Responsive Menu admin setting : Choose Menu To Responsify (Show here Dropdown Menu choose here menu for Responsify)  
 2. In Awesome Responsive Menu admin setting : Menu Breakpoint (Add here Width , Below this width show responsive menu)
 3. In Awesome Responsive Menu admin setting : Add Class OR ID  (Add Here Element class OR id including "#" OR "." Where You Prepend Responsive Menu Example: #header) 
